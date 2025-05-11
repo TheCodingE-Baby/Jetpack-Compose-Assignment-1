@@ -160,7 +160,7 @@ fun CourseCardPreview() {
                 cCreditHr = 3.00,
                 cDesc = "Events from pre-industrialization, The First, Second and Third Industrial revolutions, and modern-era concepts regarding technological advancements.",
                 cPreReqs = emptyList(),
-                isExpanded = false
+                isExpanded = true
             ),
             onExpandChange = {}
             )
